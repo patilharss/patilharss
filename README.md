@@ -1,8 +1,7 @@
 
 ![Text](https://github.com/patilharss/patilharss/blob/main/Hello%20world%20%2C%20i'm%20Harsh%20!.gif)
-<h1 align="center">Hi 👋, I'm Harsh</h1>  
 
-## i'm Harsh currently a Third year CSE student [ @SGU ](http://www.sanjayghodawatuniversity.ac.in/) and aspiring developer. Currently learning machine learning and data science .Occasionally I do participation in hackathons and have a love hate relationship with programming.
+i'm Harsh currently a Third year CSE student [ @SGU ](http://www.sanjayghodawatuniversity.ac.in/) and aspiring developer. Currently learning machine learning and data science .Occasionally I do participation in hackathons and have a love hate relationship with programming.
 
  
   
