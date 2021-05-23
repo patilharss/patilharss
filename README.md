@@ -13,7 +13,7 @@ i'm Harsh currently a Third year CSE student [ @SGU ](http://www.sanjayghodawatu
   
 - 🤝 I’m looking for help with **TensorFlow Lite on Android**  
   
-- 💬 Ask me about **Anything**  
+- 💬 Ask me about anything [here !](https://github.com/patilharss/patilharss/issues/1) 
   
 - 📫 How to reach me **patilharss@gmail.com**  
   
