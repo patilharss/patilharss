@@ -26,8 +26,7 @@
   
 ## :chart_with_upwards_trend: Github stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilharss&show_icons=true&theme=radical&locale=en&layout=compact" alt="patilharss" /></p>  
-  
 
-  ##
+##
   
   
